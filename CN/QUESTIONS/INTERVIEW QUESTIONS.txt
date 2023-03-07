@@ -1,0 +1,48 @@
+Differentiate between a router, a hub and a switch. What is a link?
+ What is a node?
+ What does a backbone network mean?
+ What is network topology?
+ Explain what is LAN.
+ What are routers?
+ What is a Point-to-Point network?
+ What is OSI model?
+ Give a brief description about each layer in the OSI Model.
+ What do you mean by anonymous FTP?
+ What is the meaning of network?
+What do you mean by a Subnet Mask?
+Give a brief description of the TCP/IP Model.
+What is the difference between the OSI Model and TCP/IP Model?
+What is a UTP cable?
+What is the maximum length allowed for a UTP cable?
+Explain what is HTTP and which port it uses.
+What is NAT?
+What is TCP?
+Give a brief explanation about UDP.
+Difference between TCP and UDP.
+What is RIP?
+Explain what is a firewall.
+Explain what is NOS                                                                                                                                                                 .Explain what is Denial of Service (DoS).
+ What is the full form of ASCII?
+ What is IEEE?
+ What is a MAC Address and why is it required?
+ What is piggybacking?
+ Explain what is DNS.
+ Differentiate between Domain and Workgroup
+ What is OSPF?
+ What is Round Trip Time?
+ What is DHCP?
+ Briefly explain what ICMP is.
+ What is a ping?
+ What are the advantages of optic fibers?
+ What is a client/server network?
+ In a network that contains two servers and twenty workstations, where is the best place to install an Anti-virus program?
+ What do you mean by Ethernet?
+ What is SLIP?
+What is the difference between CSMA/CD and CSMA/CA?
+ Briefly explain what tunnel mode is.
+ What do you mean by IPv6?
+Explain the RSA Algorithm briefly.
+ What is an encoder?
+ What is a decoder?
+ What is a sneakernet?
+ What are the components of a protocol?
